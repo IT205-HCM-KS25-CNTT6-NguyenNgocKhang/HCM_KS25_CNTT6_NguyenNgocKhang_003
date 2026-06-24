@@ -225,6 +225,7 @@ class CourseRegistrationManager:
                             return
                         case _:
                             print("Lựa chọn không hợp lệ!")
+                            return
 
                     break
             else:
